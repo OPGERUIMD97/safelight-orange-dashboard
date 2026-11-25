@@ -1,8 +1,8 @@
 {
   "id": "theme-orange-dashboard",
   "name": "Orange Dashboard Theme",
-  "version": "1.0.1",
-  "description": "Near-black theme with one orange accent. The develop surround stays neutral grey.",
+  "version": "1.0.2",
+  "description": "Near-black theme for Safelight. One orange accent. The grey around the photo stays neutral.",
   "author": "OPGERUIMD97",
   "main": "index.js",
   "categories": ["Themes"],

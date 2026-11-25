@@ -1,6 +1,6 @@
 # Orange Dashboard Theme
 
-A near-black theme for [Safelight](https://github.com/anthonyreimche/SafeLight). One orange accent (`#f34c19`). The grey around the photo stays the neutral develop surround.
+A near-black theme for [Safelight](https://github.com/anthonyreimche/SafeLight). One orange accent. The grey around the photo stays neutral.
 
 ## Install
 
@@ -42,6 +42,10 @@ Then apply it via **View ▸ Theme**. No build step; `index.js` is the bundle.
 - This theme does not register a layout. Panel arrangement stays whatever you already have.
 
 ## Changelog
+
+### 1.0.2
+
+- The description matches the README.
 
 ### 1.0.1
 
