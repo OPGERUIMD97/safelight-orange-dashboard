@@ -1,10 +1,8 @@
-// Orange Dashboard — near-black theme for Safelight.
+// Orange Dashboard Theme — near-black theme for Safelight.
 //
-// Mapped from a darktable CSS theme (Jkrci8VG.css): one structural orange,
-// near-black panels, white primary text, and a neutral grey around the photo.
-// Tokens are the ones Safelight paints with. The stylesheet only restyles
-// dock chrome the CSS described (cards, an orange header rule, radii).
-// It does not move panels. That file has no dock arrangement.
+// One structural orange, near-black panels, white primary text, and a
+// neutral grey around the photo. The stylesheet only restyles dock chrome
+// (cards, an orange header rule, radii). It does not move panels.
 
 const MARK = "--theme-orange-dashboard";
 
@@ -71,7 +69,7 @@ html[style*="${MARK}: 1"] ::-webkit-scrollbar-thumb:hover {
 export function activate(api) {
   api.registerTheme({
     id: "theme-orange-dashboard.theme",
-    name: "Orange Dashboard",
+    name: "Orange Dashboard Theme",
     colorScheme: "dark",
     vars: {
       // Library grid and the gap between panel cards.
