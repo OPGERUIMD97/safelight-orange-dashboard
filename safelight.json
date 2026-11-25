@@ -1,0 +1,13 @@
+{
+  "id": "theme-orange-dashboard",
+  "name": "Orange Dashboard",
+  "version": "1.0.0",
+  "description": "Near-black dashboard with one orange accent, mapped from a darktable theme. The develop surround stays neutral grey.",
+  "author": "OPGERUIMD97",
+  "main": "index.js",
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "orange", "darktable", "dashboard"],
+  "license": "MIT",
+  "repository": "OPGERUIMD97/safelight-orange-dashboard",
+  "minAppVersion": "3.2.0"
+}
